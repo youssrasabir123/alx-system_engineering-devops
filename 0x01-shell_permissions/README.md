@@ -1,1 +1,1 @@
-shel permissions
+shell permissions
